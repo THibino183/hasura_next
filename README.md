@@ -2,7 +2,7 @@
 
 ## 目的
 ```
-第一階層　WebVR(react-three-fiber) x Hasura GraphQL
+第一階層　WebVR(react-three-fiber) x Hasura GraphQL x cryptoeconomicslab/gazelle
 第二階層　Unity x Photon or WebRTCによるQuest2用apk
 第三階層　NeosVRの中にある仮想スマホevolverのUIX
 

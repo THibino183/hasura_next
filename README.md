@@ -1,3 +1,20 @@
+# 1. Hasura GraphQL
+
+## 目的
+```
+第一階層　WebVR(react-three-fiber) x Hasura GraphQL
+第二階層　Unity x Photon or WebRTCによるQuest2用apk
+第三階層　NeosVRの中にある仮想スマホevolverのUIX
+
+詳細と動機不明。
+a. 1on1最適化ワールド
+b. 完全人格マッチング
+c. 仮想蚤の市
+d. 仮想世界のwantedly
+```
+
+### =================================================
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

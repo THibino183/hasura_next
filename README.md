@@ -6,7 +6,7 @@
 第二階層　Unity x Photon or WebRTCによるQuest2用apk
 第三階層　NeosVRの中にある仮想スマホevolverのUIX
 
-詳細と動機不明。
+詳細不明。
 a. 1on1最適化ワールド
 b. 完全人格マッチング
 c. 仮想蚤の市
